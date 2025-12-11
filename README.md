@@ -28,32 +28,33 @@ Melihat daftar kategori kegiatan
 
 Struktur program dipisah per file (modular & rapi)
 
-🗂️ Struktur Folder
+📁 Struktur Folder
 UAS-PYTHON/
-│── app.py
-│── main.py
-│── models.py
-│── database.py
-│── assets/
-│     └── (file foto, icon, dokumen jika ada)
+├── app.py
+├── main.py
+├── models.py
+├── database.py
+├── assets/
+│   ├── Screenshot 2025-12-11 220225.png
+│   ├── Screenshot 2025-12-11 222043.png
+│   └── Screenshot 2025-12-11 222057.png
 └── sql/
-      └── tbm_database.sql
+    └── tbm_database.sql
 
 🛢 Struktur Database (MySQL)
+| id | nama                     |
+| -- | ------------------------ |
+| 1  | Membaca Buku             |
+| 2  | Belajar / Les            |
+| 3  | Pinjam Buku              |
+| 4  | Mengembalikan Buku       |
+| 5  | Diskusi / Kelas Literasi |
+| 6  | Kolaborasi               |
 
-Database: tbm_kunjungan
-
-Tabel: kategori
-id	nama
-1	Membaca Buku
-2	Belajar / Les
-3	Pinjam Buku
-4	Mengembalikan Buku
-5	Diskusi / Kelas Literasi
-6	Kolaborasi
 Tabel: kunjungan
-
 | id | nama_pengunjung | kategori_id | tanggal |
+| -- | --------------- | ----------- | ------- |
+
 
 🚀 Cara Menjalankan
 
