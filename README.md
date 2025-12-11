@@ -1,7 +1,7 @@
 📚 Sistem Kunjungan TBM
 
-Aplikasi sederhana berbasis Python untuk mencatat data kunjungan di Taman Bacaan Masyarakat (TBM).
-Proyek ini dibuat untuk memenuhi tugas UAS – mencakup penggunaan modul, package, OOP, percabangan, perulangan, serta koneksi database MySQL.
+Sistem Kunjungan TBM adalah aplikasi sederhana yang dibuat untuk membantu mencatat aktivitas pengunjung di Taman Bacaan Masyarakat (TBM).
+Melalui sistem ini, setiap kunjungan dapat direkam dengan lebih rapi dan terstruktur — seperti aktivitas membaca, meminjam buku, diskusi, hingga kegiatan kolaborasi.
 
 ## Tampilan Aplikasi
 
