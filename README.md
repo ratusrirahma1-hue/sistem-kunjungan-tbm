@@ -5,14 +5,10 @@ Proyek ini dibuat untuk memenuhi tugas UAS – mencakup penggunaan modul, packag
 
 ## 📸 Preview Aplikasi Kunjungan TBM
 
-### 🖼️ Tampilan 1
-<img src="assets/Screenshot 2025-12-11 222057" width="450">
+![Tampilan 1](assets/ss_222057.png)
+![Tampilan 2](assets/ss_220225.png)
+![Tampilan 3](assets/ss_222043.png)
 
-### 🖼️ Tampilan 2
-<img src="assets/Screenshot 2025-12-11 220225" width="450">
-
-### 🖼️ Tampilan 3
-<img src="assets/Screenshot 2025-12-11 222043" width="450">
 
 
 ✨ Fitur Utama
