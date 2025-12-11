@@ -28,18 +28,6 @@ Melihat daftar kategori kegiatan
 
 Struktur program dipisah per file (modular & rapi)
 
-📁 Struktur Folder
-UAS-PYTHON/
-├── app.py
-├── main.py
-├── models.py
-├── database.py
-├── assets/
-│   ├── Screenshot 2025-12-11 220225.png
-│   ├── Screenshot 2025-12-11 222043.png
-│   └── Screenshot 2025-12-11 222057.png
-└── sql/
-    └── tbm_database.sql
 
 🛢 Struktur Database (MySQL)
 | id | nama                     |
