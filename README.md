@@ -3,6 +3,18 @@
 Aplikasi sederhana berbasis Python untuk mencatat data kunjungan di Taman Bacaan Masyarakat (TBM).
 Proyek ini dibuat untuk memenuhi tugas UAS – mencakup penggunaan modul, package, OOP, percabangan, perulangan, serta koneksi database MySQL.
 
+## 📸 Preview Aplikasi Kunjungan TBM
+
+### 🖼️ Tampilan 1
+<img src="assets/ss_222057.png" width="450">
+
+### 🖼️ Tampilan 2
+<img src="assets/ss_220225.png" width="450">
+
+### 🖼️ Tampilan 3
+<img src="assets/ss_222043.png" width="450">
+
+
 ✨ Fitur Utama
 
 Melihat data kunjungan TBM
